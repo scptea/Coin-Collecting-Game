@@ -1,0 +1,7 @@
+https://scptea.itch.io/coin-collector
+
+Kids game about collecting coins and exploring, if you reach score of a 10 you win!
+
+WASD to move around, Shift to run, Ctrl to crouch, and Space to Jump
+
+it is just a prototype might work on it later to add more npcs and quests and on
